@@ -1,0 +1,227 @@
+[
+    [
+        "/Users/kevin.burke/gitexperiments/new2/fantastic-doodle/force-app",
+        {
+            "state": "u",
+            "sourcePath": "/Users/kevin.burke/gitexperiments/new2/fantastic-doodle/force-app",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 96,
+            "modifiedTime": 1516112826354,
+            "changeTime": 1516112826354,
+            "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "/Users/kevin.burke/gitexperiments/new2/fantastic-doodle/force-app/main",
+        {
+            "state": "u",
+            "sourcePath": "/Users/kevin.burke/gitexperiments/new2/fantastic-doodle/force-app/main",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 96,
+            "modifiedTime": 1516112826354,
+            "changeTime": 1516112826354,
+            "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/kevin.burke/gitexperiments/new2/fantastic-doodle/force-app/main/default",
+        {
+            "state": "u",
+            "sourcePath": "/Users/kevin.burke/gitexperiments/new2/fantastic-doodle/force-app/main/default",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 96,
+            "modifiedTime": 1516112826354,
+            "changeTime": 1516112826354,
+            "contentHash": "2c2a89c1c45d2977cfce538e475902f5520f4382",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/kevin.burke/gitexperiments/new2/fantastic-doodle/force-app/main/default/aura",
+        {
+            "state": "u",
+            "sourcePath": "/Users/kevin.burke/gitexperiments/new2/fantastic-doodle/force-app/main/default/aura",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 96,
+            "modifiedTime": 1516112826354,
+            "changeTime": 1516112826354,
+            "contentHash": "337c7ec77a69ddc88747a33fc87e08737333c8be",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/kevin.burke/gitexperiments/new2/fantastic-doodle/force-app/main/default/aura/kblightningcomponent",
+        {
+            "state": "u",
+            "sourcePath": "/Users/kevin.burke/gitexperiments/new2/fantastic-doodle/force-app/main/default/aura/kblightningcomponent",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 352,
+            "modifiedTime": 1516112826356,
+            "changeTime": 1516112826356,
+            "contentHash": "912e5bbe4bf41e58084201fb224747395c9a912f",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/kevin.burke/gitexperiments/new2/fantastic-doodle/force-app/main/default/aura/kblightningcomponent/kblightningcomponent.auradoc",
+        {
+            "state": "u",
+            "sourcePath": "/Users/kevin.burke/gitexperiments/new2/fantastic-doodle/force-app/main/default/aura/kblightningcomponent/kblightningcomponent.auradoc",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 209,
+            "modifiedTime": 1516112826354,
+            "changeTime": 1516112826354,
+            "contentHash": "fd7f560d82324d6a8255c8c6ebf60698f5f93f1e",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/kevin.burke/gitexperiments/new2/fantastic-doodle/force-app/main/default/aura/kblightningcomponent/kblightningcomponent.cmp",
+        {
+            "state": "u",
+            "sourcePath": "/Users/kevin.burke/gitexperiments/new2/fantastic-doodle/force-app/main/default/aura/kblightningcomponent/kblightningcomponent.cmp",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 51,
+            "modifiedTime": 1516112997778,
+            "changeTime": 1516112997778,
+            "contentHash": "ec3db237851f64fecf2b0ba04866249b32ec172c",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/kevin.burke/gitexperiments/new2/fantastic-doodle/force-app/main/default/aura/kblightningcomponent/kblightningcomponent.cmp-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/kevin.burke/gitexperiments/new2/fantastic-doodle/force-app/main/default/aura/kblightningcomponent/kblightningcomponent.cmp-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 252,
+            "modifiedTime": 1516112826354,
+            "changeTime": 1516112826354,
+            "contentHash": "8fdfbf61de22bc1a5eebfa07a1b80fb6fab47fbb",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/kevin.burke/gitexperiments/new2/fantastic-doodle/force-app/main/default/aura/kblightningcomponent/kblightningcomponent.css",
+        {
+            "state": "u",
+            "sourcePath": "/Users/kevin.burke/gitexperiments/new2/fantastic-doodle/force-app/main/default/aura/kblightningcomponent/kblightningcomponent.css",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 10,
+            "modifiedTime": 1516112826355,
+            "changeTime": 1516112826355,
+            "contentHash": "44063bf628f237edaa1f3f358714dd40ac321703",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/kevin.burke/gitexperiments/new2/fantastic-doodle/force-app/main/default/aura/kblightningcomponent/kblightningcomponent.design",
+        {
+            "state": "u",
+            "sourcePath": "/Users/kevin.burke/gitexperiments/new2/fantastic-doodle/force-app/main/default/aura/kblightningcomponent/kblightningcomponent.design",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 40,
+            "modifiedTime": 1516112826355,
+            "changeTime": 1516112826355,
+            "contentHash": "c5618bc7228e29c74b07b78fd040e05ae8a541ec",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/kevin.burke/gitexperiments/new2/fantastic-doodle/force-app/main/default/aura/kblightningcomponent/kblightningcomponent.svg",
+        {
+            "state": "u",
+            "sourcePath": "/Users/kevin.burke/gitexperiments/new2/fantastic-doodle/force-app/main/default/aura/kblightningcomponent/kblightningcomponent.svg",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 661,
+            "modifiedTime": 1516112826355,
+            "changeTime": 1516112826355,
+            "contentHash": "721eeffe17135535c3834b77f1e1968fe6360ed4",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/kevin.burke/gitexperiments/new2/fantastic-doodle/force-app/main/default/aura/kblightningcomponent/kblightningcomponentController.js",
+        {
+            "state": "u",
+            "sourcePath": "/Users/kevin.burke/gitexperiments/new2/fantastic-doodle/force-app/main/default/aura/kblightningcomponent/kblightningcomponentController.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 65,
+            "modifiedTime": 1516112826355,
+            "changeTime": 1516112826355,
+            "contentHash": "194250e0c86b1981f8d4e7246be6b32954c6deaf",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/kevin.burke/gitexperiments/new2/fantastic-doodle/force-app/main/default/aura/kblightningcomponent/kblightningcomponentHelper.js",
+        {
+            "state": "u",
+            "sourcePath": "/Users/kevin.burke/gitexperiments/new2/fantastic-doodle/force-app/main/default/aura/kblightningcomponent/kblightningcomponentHelper.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 45,
+            "modifiedTime": 1516112826356,
+            "changeTime": 1516112826356,
+            "contentHash": "fa35ebecd73c127729bf311a95b613f711a6f10b",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/kevin.burke/gitexperiments/new2/fantastic-doodle/force-app/main/default/aura/kblightningcomponent/kblightningcomponentRenderer.js",
+        {
+            "state": "u",
+            "sourcePath": "/Users/kevin.burke/gitexperiments/new2/fantastic-doodle/force-app/main/default/aura/kblightningcomponent/kblightningcomponentRenderer.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 50,
+            "modifiedTime": 1516112826356,
+            "changeTime": 1516112826356,
+            "contentHash": "8b79b016f08440c9b2f7d706a6d21229c854540b",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/kevin.burke/gitexperiments/new2/fantastic-doodle",
+        {
+            "state": "u",
+            "sourcePath": "/Users/kevin.burke/gitexperiments/new2/fantastic-doodle",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 288,
+            "modifiedTime": 1516112836799,
+            "changeTime": 1516112836799,
+            "contentHash": "6560d7e49c922142aa9ef76990a258654976be7d",
+            "isWorkspace": true,
+            "isArtifactRoot": false
+        }
+    ]
+]
